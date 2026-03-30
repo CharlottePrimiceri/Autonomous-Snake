@@ -5,7 +5,8 @@ Students:
 - Davide De Ciutiis
 - Harini Satyavada
 - Vishnu Anand
-An autonomous snake robot navigation system using Reinforcement Learning in MuJoCo simulation. This project builds upon the 2024 TESP team's hand-tracking work by implementing autonomous control through the Soft Actor-Critic (SAC) algorithm.
+An autonomous snake robot navigation system using Reinforcement Learning in MuJoCo simulation. Our team implemented an autonomous control through the Soft Actor-Critic (SAC) algorithm.
+
 See our presentation IntelligentSnake.pdf for details!
 ## Overview
 
