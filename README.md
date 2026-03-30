@@ -1,7 +1,12 @@
 # TESP Snake Robot - Reinforcement Learning Navigation
-
+Students: 
+- Charlotte Primiceri
+- Serena Trovalusci
+- Davide De Ciutiis
+- Harini Satyavada
+- Vishnu Anand
 An autonomous snake robot navigation system using Reinforcement Learning in MuJoCo simulation. This project builds upon the 2024 TESP team's hand-tracking work by implementing autonomous control through the Soft Actor-Critic (SAC) algorithm.
-
+See our presentation IntelligentSnake.pdf for details!
 ## Overview
 
 The 2024 team developed an interactive game using MediaPipe hand tracking to control a simulated snake robot. The 2025 iteration transitions from manual control to autonomous navigation using reinforcement learning in a maze environment.
