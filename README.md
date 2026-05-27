@@ -150,7 +150,7 @@ Reducing the action space to a single learned parameter (θ, phase shift) while 
 
 **Gesture-Controlled Snake** *(base system)*
 
-https://github.com/user-attachments/assets/1f2fb36e-e6ef-432a-9bc7-e9d4c0159e0e
+https://github.com/user-attachments/assets/01d69eb5-d380-405c-8512-f4a1f9781c14
 
 **Autonomous RL Snake** *(Experiment 3 — best performance)*
 
