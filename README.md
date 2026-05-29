@@ -1,4 +1,4 @@
-# Intelligent Snake — Autonomous Robot Navigation via RL & CPG
+# Intelligent Snake: Autonomous Robot Navigation via RL & CPG
 
 An autonomous snake robot navigation system using Reinforcement Learning in MuJoCo simulation. Building on a gesture-controlled base from the 2024 edition, the 2025 iteration empowers the robot to navigate fully autonomously using a hierarchical control scheme combining A* global planning, SAC-based local planning, and a Central Pattern Generator for biologically-inspired locomotion.
 
